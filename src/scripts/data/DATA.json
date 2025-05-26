@@ -1,0 +1,104 @@
+    {
+    "books": [
+      {
+        "id": "6c7bqjgi84kcowlqdz",
+        "name": "U N I T   1",
+        "description": "Preposition : in on ; to be : is am are Yes/No question; possesive adjective : my, your, his, her ; Verb to be : am is are Yes/No question Wh/Question; Preposition: in, on , under, in front of, behind; Possessive Adjective This-these that-Those; Possesive 's Whose ,,,,,,,,,,,,?",
+        "pictureId": "01.jpg",
+        "gambarId": "10.jpg" ,
+        "Kurikulum": "GENERAL ENGLISH CONVERSATION",
+        "rating": 4.6,
+        "soal": "where are you from Anna? ",
+        "jawab": "I am from New York " 
+      },
+      {
+        "id": "ljx8i0qu2uckcowlqdz",
+        "name": "U N I T   2",
+        "description": "Simple Present Tense with Yes/No Question: Wh-Question with do: Preposition : for, at, to ; Present Simple Tense: Yes/No Question & Wh Question with does; Adverb of frequently: always, usually, sometimes, seldom' never",
+        "pictureId": "02.jpg",
+        "gambarId": "10.jpg",
+        "Kurikulum": "GENERAL ENGLISH CONVERSATION",
+        "rating": 4.6,
+        "soal": "Does your father go to office every day ? ",
+        "jawab": "Yes, he does " 
+      },
+      {
+        "id": "fe8bbxoazddkcowlqdz",
+        "name": "U N I T    3 ",
+        "description": "There is /there are: one, any, some, preposition, direction  ",
+        "pictureId": "03.jpg",
+        "gambarId": "10.jpg",
+        "Kurikulum": "GENERAL ENGLISH CONVERSATION",
+        "rating": 4.8,
+        "soal": "is there a stereo ?",
+        "jawab": "Yes There is" 
+      },
+      {
+        "id": "ik1zljmlf68kcowlqdz",
+        "name": "U N I T    4",
+        "description": "Present Continuous Tense",
+        "pictureId": "04.jpg",
+        "gambarId": "10.jpg",
+        "Kurikulum": "GENERAL ENGLISH CONVERSATION",
+        "rating": 4.7,
+        "soal": "are you studying English now ? ",
+        "jawab": "yes I am " 
+      },
+      {
+        "id": "9jpuzkm6n6jkcowlqdz",
+        "name": "U N I T   5",
+        "description": "Past Tense (1) Regular Verb; Past Tense (2) Irregular Verb; to be Past Tense was and were; Past Tense (3) used to",
+        "pictureId": "05.jpg",
+        "gambarId": "10.jpg",
+       "Kurikulum": "GENERAL ENGLISH CONVERSATION",
+        "rating": 3.8,
+        "soal": "Where were you yesterday ? ",
+        "jawab": "I was in Jakarta "  
+      },
+      {
+        "id": "cpl5jpsnuqkkcowlqdz",
+         "name": "U N I T   6",  
+         "description": "Future Be Going To; Future Will; conditional with if.....will (possible situations)",
+         "pictureId": "06.jpg",
+        "gambarId": "10.jpg", 
+         "Kurikulum": "GENERAL ENGLISH CONVERSATION",
+         "rating": 4.6,
+         "soal": "Are you going to Bandung Tomorrow ? ",
+         "jawab": "Yes I am, I am going to Bandung Tomorrow " 
+      },
+      {
+        "id": "iqtf9hmdzvbkcowlqdz",
+         "name": "U N I T   7",
+         "description": "Modal Auxiliary ",
+         "pictureId": "07.jpg",
+         "gambarId": "10.jpg",
+         "Kurikulum": "GENERAL ENGLISH CONVERSATION",
+         "rating": 3.6,
+         "soal": "can I help you ? ",
+         "jawab": "Yes You can " 
+      },
+      {
+        "id": "8i06gqcc2dpkcowlqdz",
+        "name": "U N I T   8",
+        "description": "Present Perfect Tense",
+        "pictureId": "08.jpg",
+        "gambarId": "10.jpg",
+        "Kurikulum": "GENERAL ENGLISH CONVERSATION",
+        "rating": 4,
+        "soal": "have you eaten meatball ?",
+        "jawab": "Yes I have " 
+      },
+      {
+        "id": "wf5o19xhxxkcowlqdz",
+       "name": "U N I T    9",
+        "description": "Relative Clause",
+        "pictureId": "09.jpg",
+        "gambarId": "10.jpg",
+        "Kurikulum": "GENERAL ENGLISH CONVERSATION",
+        "rating": 3.9,
+        "soal": "it's very satisfying to work for a small company. Do you know I've been working here for two months already ?",
+        "jawab": "Then, I guess you've met everyone who works here " 
+      }
+
+    ]
+  }
